@@ -1,3 +1,8 @@
+# TODO
+
+- [ ] Remove {{ PROJECT_NAME }} and {{ PROJECT_URL }}
+- [ ] Add `npm_token` secret to github to allow action to publish
+
 # {{ PROJECT_NAME }}
 
 <!-- PROJECT SHIELDS -->
@@ -6,6 +11,7 @@
 
 <!-- toc -->
 
+- [TODO](#todo)
 - [{{ PROJECT_NAME }}](#-project_name-)
   - [About The Project](#about-the-project)
   - [Installation](#installation)
