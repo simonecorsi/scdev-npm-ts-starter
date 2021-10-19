@@ -1,7 +1,7 @@
 {
   "name": "{{ PROJECT_NAME }}",
   "version": "1.0.0-0",
-  "description": "This packages aims to help you generate markdown in a declarative way!",
+  "description": "desc",
   "main": "./dist/index.js",
   "types": "./types/index.d.ts",
   "repository": {
