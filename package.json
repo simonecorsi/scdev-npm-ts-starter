@@ -38,7 +38,7 @@
     }
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.0.3",
+    "@commitlint/cli": "^17.1.1",
     "@commitlint/config-conventional": "^17.0.3",
     "@istanbuljs/esm-loader-hook": "^0.2.0",
     "@saithodev/semantic-release-backmerge": "^2.0.0",
