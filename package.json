@@ -43,7 +43,7 @@
     "@istanbuljs/esm-loader-hook": "^0.2.0",
     "@saithodev/semantic-release-backmerge": "^3.2.1",
     "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/commit-analyzer": "^10.0.4",
+    "@semantic-release/commit-analyzer": "^11.0.0",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^9.2.1",
     "@semantic-release/npm": "^10.0.6",
