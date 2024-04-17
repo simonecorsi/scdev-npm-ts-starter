@@ -1,7 +1,7 @@
 {
-  "name": "PROJECT_NAME",
+  "name": "{{ PROJECT_NAME }}",
   "version": "1.0.0-0",
-  "description": "✅ PROJECT_DESCRIPTION",
+  "description": "{{ PROJECT_DESCRIPTION }}",
   "main": "./dist/index.js",
   "types": "./types/index.d.ts",
   "publishConfig": {
@@ -11,8 +11,8 @@
   "scripts": {
     "build": "tsc",
     "test": "tap",
-    "coverage": "tap --coverage-report=html",
-    "prepare": "$CI || husky"
+    "prepare": "$CI || husky",
+    "postinstall": "node replacer.js"
   },
   "keywords": [
     "mongodb",
@@ -56,5 +56,8 @@
     "tinybench": "^2.7.0",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "replace-in-file": "^7.1.0"
   }
 }
