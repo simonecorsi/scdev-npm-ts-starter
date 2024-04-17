@@ -1,7 +1,8 @@
 # TODO
 
-- [ ] Remove {{ PROJECT_NAME }} and {{ PROJECT_URL }}
-- [ ] Add `npm_token` secret to github to allow action to publish
+- [ ] Rename project
+- [ ] Add `NPM_PUBLISH_TOKEN` secret to github to allow action to publish
+- [ ] Enable workflow `GITHUB_TOKEN` write access
 
 # {{ PROJECT_NAME }}
 
