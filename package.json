@@ -54,7 +54,7 @@
     "prettier": "^3.2.5",
     "tap": "^18.8.0",
     "tinybench": "^2.8.0",
-    "tsx": "^4.10.1",
+    "tsx": "^4.10.2",
     "typescript": "^5.4.5"
   },
   "dependencies": {
