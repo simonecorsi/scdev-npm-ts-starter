@@ -48,7 +48,7 @@
     "lint-staged": "^15.2.8",
     "markdown-toc": "^1.2.0",
     "prettier": "^3.3.3",
-    "tap": "^19.2.5",
+    "tap": "^21.0.0",
     "tinybench": "^2.9.0",
     "tsx": "^4.16.5",
     "typescript": "^5.5.4"
