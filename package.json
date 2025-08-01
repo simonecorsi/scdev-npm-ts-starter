@@ -43,7 +43,7 @@
     "tap": "^21.1.0",
     "tinybench": "^2.8.0",
     "tsx": "^4.20.3",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.2"
   },
   "dependencies": {
     "replace-in-file": "^7.2.0"
