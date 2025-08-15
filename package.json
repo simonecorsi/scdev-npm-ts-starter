@@ -41,7 +41,7 @@
     "lefthook": "^1.12.3",
     "markdown-toc": "^1.2.0",
     "tap": "^21.1.0",
-    "tinybench": "^2.8.0",
+    "tinybench": "^4.1.0",
     "tsx": "^4.20.4",
     "typescript": "^5.9.2"
   },
